@@ -1,0 +1,71 @@
+# ============================================================
+# HR WORKFORCE ANALYTICS — TODO LIST
+# ============================================================
+
+
+# ---------- PHASE 1 : DATA PREPARATION ----------
+# [1] Load dataset
+# [1] Inspect dataset structure
+# [1] Check data types
+# [1] Check for missing values
+# [1] Check duplicate records
+# [1] Validate categorical values
+# [1] Check logical inconsistencies
+# [1] Review constant/non-informative columns
+# [1] Handle data quality issues
+# [1] Prepare final analysis dataset
+
+
+# ---------- PHASE 2 : GENERAL WORKFORCE ANALYSIS ----------
+# [1] Employee overview
+# [1] Department distribution
+# [1] Job role distribution
+# [1] Gender distribution
+# [1] Age distribution
+# [1] Education levels
+# [1] Education fields
+# [1] Marital status
+# [1] Business travel frequency
+# [1] Years at company
+# [1] Years in current role
+# [1] Years since last promotion
+# [1] Years with current manager
+# [1] Monthly income distribution
+
+# ---------- PHASE 3 : ATTRITION ANALYSIS ----------
+# [1] Overall attrition rate
+# [1] Attrition by department
+# [1] Attrition by job role
+# [1] Attrition by gender
+# [1] Attrition by age group
+# [1] Attrition by marital status
+# [1] Attrition by education
+# [1] Attrition by overtime
+# [1] Attrition by business travel
+# [1] Attrition by job satisfaction
+# [1] Attrition by work-life balance
+# [1] Attrition by monthly income
+# [1] Attrition by years at company
+# [1] Attrition by years in current role
+
+
+# ---------- PHASE 4 : MULTIVARIATE ANALYSIS ----------
+# [1] Correlation matrix
+# [1] Numerical feature correlations
+# [1] Attrition numerical correlation analysis
+# [1] Attrition categorical correlation analysis
+# [1] Pairwise feature exploration
+# [1] Department vs overtime vs attrition
+# [1] Marital vs overtime vs attrition
+
+# ---------- PHASE 5 : KEY FINDINGS ----------
+# [1] Summarize workforce profile
+# [1] Summarize attrition patterns
+# [1] Highlight major insights
+# [1] Business recommendations
+
+# ---------- PHASE 6 : FINAL POLISH ----------
+# [1] Improve notebook formatting
+# [1] Improve markdown explanations
+# [ ] Modularize
+# [ ] Publish to GitHub
